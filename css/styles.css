@@ -70,3 +70,9 @@ nav ul li {
 nav #user-account {
     float: right;
 }
+
+.topcorner {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
